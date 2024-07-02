@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Currently a BS Computer Science student in the University of the Philippines, skilled in both front-end and back-end development. <br>Experienced in building APIs, managing databases, and creating web applications. <br>Passionate about web development and eager to contribute to innovative projects. <br>Highly capable of handling diverse development tasks and collaborating effectively within a team.
+Currently a BS Computer Science student at the University of the Philippines, skilled in both front-end and back-end development. Experienced in building APIs, managing databases, and creating web applications. <br><br>Passionate about web development and eager to contribute to innovative projects. Highly capable of handling diverse development tasks and collaborating effectively within a team.
 
 
 ## 🌐 Socials:
